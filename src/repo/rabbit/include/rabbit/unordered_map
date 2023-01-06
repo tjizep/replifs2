@@ -1,0 +1,4 @@
+/// defines a map
+#pragma once
+
+#include <rabbit/rabbit_map.h>
